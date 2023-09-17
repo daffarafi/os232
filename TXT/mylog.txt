@@ -25,19 +25,19 @@ ZCZC W01 120 L71 Working (General)
 ZCZC W01 15 L83 Pets: feeding, playing, etc
 ZCZC W01 30 L01 SCELE/Discord related
 ZCZC W01 05 L03 GitHub and git related, including commit, push, pull
-ZCZC W01 15 L64 Helping a friend (OS related problem)
+ZCZC W01 60 L64 Helping a friend (OS related problem)
 ZCZC W01 300 L84 Relax, Rest, Nap, and Sleep
-ZCZC W02 180 L12 Assignment #02
+ZCZC W02 240 L12 Assignment #02
 ZCZC W02 60 L01 SCELE/Discord related
 ZCZC W02 60 L02 CLASSROOM/ZOOM meetings related
 ZCZC W02 10 L03 GitHub and git related, including commit, push, pull
 ZCZC W02 60 L05 Quiz related including studying
 ZCZC W02 30 L06 References/Books/Documents/Browsing/GSGS related
 ZCZC W02 30 L07 Demo related
-ZCZC W02 05 L08 OS Chat related (WA, LIME, Telegram, Signal) with AsDos, Friend, etc. See also L01.
-ZCZC W02 60 L21 Trying something
-ZCZC W02 30 L22 Linux CLI including tar, etc.
-ZCZC W02 15 L26 GnuPG, key-gen, encrypt/decrypt.
+ZCZC W02 60 L08 OS Chat related (WA, LIME, Telegram, Signal) with AsDos, Friend, etc. See also L01.
+ZCZC W02 120 L21 Trying something
+ZCZC W02 45 L22 Linux CLI including tar, etc.
+ZCZC W02 25 L26 GnuPG, key-gen, encrypt/decrypt.
 ZCZC W02 60 L27 SSH, key-gen, tunneling, putty, winscp
 ZCZC W02 300 L30 Udacity: study, etc.
 ZCZC W02 120 L32 YouTube: watching OS related topics, etc.
@@ -46,7 +46,7 @@ ZCZC W02 05 L43 TXT/myrank.tex related, including peer review.
 ZCZC W02 10 L44 TXT/myscript.sh related. See also L25, L24.
 ZCZC W02 20 L64 Helping a friend (OS related problem)
 ZCZC W02 600 L70 Studying for other courses.
-ZCZC W02 240 L71 Working (General)
+ZCZC W02 300 L71 Working (General)
 ZCZC W02 120 L73 Gaming including Board Games.
 ZCZC W02 120 L80 Waching: Movie, YouTube, TV, Netflix, etc.
 ZCZC W02 30 L83 Pets: feeding, playing, etc

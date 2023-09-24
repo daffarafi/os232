@@ -52,3 +52,35 @@ ZCZC W02 120 L80 Waching: Movie, YouTube, TV, Netflix, etc.
 ZCZC W02 30 L83 Pets: feeding, playing, etc
 ZCZC W02 2100 L84 Relax, Rest, Nap, and Sleep
 ZCZC W02 140 L87 Breakfast/Lunch/Dinner/Snake
+ZCZC W03 120 L01 SCELE/Discord related
+ZCZC W03 180 L02 CLASSROOM/ZOOM meetings related
+ZCZC W03 05 L03 GitHub and git related, including commit, push, pull
+ZCZC W03 120 L05 Quiz related including studying
+ZCZC W03 210 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W03 30 L07 Demo related
+ZCZC W03 40 L08 OS Chat related (WA, LIME, Telegram, Signal) with AsDos, Friend, etc. See also L01.
+ZCZC W03 120 L13 Assignment #03
+ZCZC W03 180 L21 Trying something
+ZCZC W03 30 L22 Linux CLI including tar, etc.
+ZCZC W03 300 L23 Bash, Regex, SED, AWK.
+ZCZC W03 300 L24 Scripting in general.
+ZCZC W03 20 L25 C-language including Make.
+ZCZC W03 15 L26 GnuPG, key-gen, encrypt/decrypt.
+ZCZC W03 15 L27 SSH, key-gen, tunneling, putty, winscp
+ZCZC W03 300 L30 Udacity: study, etc.
+ZCZC W03 30 L31 VirtualBox: install GNU/Linux, etc.
+ZCZC W03 90 L32 YouTube: watching OS related topics, etc.
+ZCZC W03 05 L40 TXT/ related in general.
+ZCZC W03 05 L41 TXT/mylog.txt related.
+ZCZC W03 30 L43 TXT/myrank.tex related, including peer review.
+ZCZC W03 10 L44 TXT/myscript.sh related. See also L25, L24.
+ZCZC W03 05 L61 Install/Reinstall/Restore/Backup Virtual Box
+ZCZC W03 60 L64 Helping a friend (OS related problem)
+ZCZC W03 300 L70 Studying for other courses.
+ZCZC W03 180 L71 Working (General)
+ZCZC W03 180 L73 Gaming including Board Games.
+ZCZC W03 60 L80 Waching: Movie, YouTube, TV, Netflix, etc.
+ZCZC W03 30 L83 Pets: feeding, playing, etc
+ZCZC W03 2100 L84 Relax, Rest, Nap, and Sleep
+ZCZC W03 210 L87 Breakfast/Lunch/Dinner/Snake
+

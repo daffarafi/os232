@@ -106,3 +106,26 @@ ZCZC W04 60 L80 Waching: Movie, YouTube, TV, Netflix, etc.
 ZCZC W04 30 L83 Pets: feeding, playing, etc
 ZCZC W04 2100 L84 Relax, Rest, Nap, and Sleep
 ZCZC W04 140 L87 Breakfast/Lunch/Dinner/Snake
+ZCZC W05 120 L01 SCELE/Discord related
+ZCZC W05 200 CLASSROOM/ZOOM meetings related
+ZCZC W05 10 L03 GitHub and git related, including commit, push, pull
+ZCZC W05 30 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W05 15 L07 Demo related
+ZCZC W05 60 L08 OS Chat related (WA, LIME, Telegram, Signal) with AsDos, Friend, etc. See also L01.
+ZCZC W05 30 L11 Assignment #01
+ZCZC W05 30 L12 Assignment #02
+ZCZC W05 60 L13 Assignment #03
+ZCZC W05 20 L21 Trying something
+ZCZC W05 15 L26 GnuPG, key-gen, encrypt/decrypt.
+ZCZC W05 20 L27 SSH, key-gen, tunneling, putty, winscp
+ZCZC W05 120 L30 Udacity: study, etc.
+ZCZC W05 5 L31 VirtualBox: install GNU/Linux, etc.
+ZCZC W05 15 L40 TXT/ related in general.
+ZCZC W05 60 L64 Helping a friend (OS related problem)
+ZCZC W05 600 L70 Studying for other courses.
+ZCZC W05 1440 L71 Working (General)
+ZCZC W05 60 L73 Gaming including Board Games.
+ZCZC W05 60 L80 Waching: Movie, YouTube, TV, Netflix, etc.
+ZCZC W05 30 L83 Pets: feeding, playing, etc
+ZCZC W05 2100 L84 Relax, Rest, Nap, and Sleep
+ZCZC W05 140 L87 Breakfast/Lunch/Dinner/Snake

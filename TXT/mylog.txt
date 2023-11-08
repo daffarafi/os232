@@ -156,3 +156,19 @@ ZCZC W06 60 L80 Waching: Movie, YouTube, TV, Netflix, etc.
 ZCZC W06 30 L83 Pets: feeding, playing, etc
 ZCZC W06 2100 L84 Relax, Rest, Nap, and Sleep
 ZCZC W06 140 L87 Breakfast/Lunch/Dinner/Snake
+ZCZC W07 20 L01 SCELE/Discord related
+ZCZC W07 200 L02 CLASSROOM/ZOOM meetings related
+ZCZC W07 10 L04 GitHub Pages related
+ZCZC W07 75 L05 Quiz related including studying
+ZCZC W07 60 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W07 10 L08 OS Chat related (WA, LIME, Telegram, Signal) with AsDos, Friend, etc. See also L01.
+ZCZC W07 15 L10 Assignment #00
+ZCZC W07 300 L30 Udacity: study, etc.
+ZCZC W07 05 L41 TXT/mylog.txt related.
+ZCZC W07 60 L64 Helping a friend (OS related problem)
+ZCZC W07 120 L70 Studying for other courses.
+ZCZC W07 120 L71 Working (General)
+ZCZC W07 60 L73 Gaming including Board Games.
+ZCZC W07 15 L83 Pets: feeding, playing, etc
+ZCZC W07 2100 L84 Relax, Rest, Nap, and Sleep
+ZCZC W07 140 L87 Breakfast/Lunch/Dinner/Snake

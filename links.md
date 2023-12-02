@@ -10,5 +10,6 @@ permalink: LINKS/
 * [Vim Tutorial for Beginneres](https://www.youtube.com/watch?v=RZ4p-saaQkc) --- Vim is a highly configurable text editor that you can use for software development or any kind of text editing. In this course you will learn how to use and exit Vim.
 * [About The Linux Programming Interface](https://man7.org/tlpi/tlpi_in_detail.html) --- The Linux Programming Interface (TLPI) describes system programming on Linux and UNIX. TLPI is both a guide and reference book for system programming
 * [Introduction to C](https://www.w3schools.com/c/c_intro.php) --- C is a general-purpose programming language created by Dennis Ritchie at the Bell Laboratories in 1972. It is a very popular language, despite being old. The main reason for its popularity is because it is a fundamental language in the field of computer science.
+* [INSTALLING LINUX FROM SCRATCH (MEME WARNING!!!) | LFS](https://www.youtube.com/watch?v=S7N9D4IqHA0) --- This is a meme, a mix of cringe and courage, and a meme meant for the entertainment of course. How Linux From Scratch(LFS) has taken the lives of many people and the difficulty in installation.
 <br>
 <hr>

@@ -212,3 +212,29 @@ ZCZC W09 60 L73 Gaming including Board Games.
 ZCZC W09 15 L83 Pets: feeding, playing, etc
 ZCZC W09 2100 L84 Relax, Rest, Nap, and Sleep
 ZCZC W09 140 L87 Breakfast/Lunch/Dinner/Snake
+ZCZC W10 60 L01 SCELE/Discord related
+ZCZC W10 60 L02 CLASSROOM/ZOOM meetings related
+ZCZC W10 10 L03 GitHub and git related, including commit, push, pull
+ZCZC W10 60 L05 Quiz related including studying
+ZCZC W10 30 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W10 30 L07 Demo related
+ZCZC W10 10 L08 OS Chat related (WA, LIME, Telegram, Signal) with AsDos, Friend, etc. See also L01.
+ZCZC W10 120 L13 Assignment #03
+ZCZC W10 180 L21 Trying something
+ZCZC W10 30 L22 Linux CLI including tar, etc.
+ZCZC W10 300 L23 Bash, Regex, SED, AWK.
+ZCZC W10 300 L24 Scripting in general.
+ZCZC W10 20 L25 C-language including Make.
+ZCZC W10 15 L26 GnuPG, key-gen, encrypt/decrypt.
+ZCZC W10 15 L27 SSH, key-gen, tunneling, putty, winscp
+ZCZC W10 300 L30 Udacity: study, etc.
+ZCZC W10 5 L31 VirtualBox: install GNU/Linux, etc.
+ZCZC W10 15 L40 TXT/ related in general.
+ZCZC W10 60 L64 Helping a friend (OS related problem)
+ZCZC W10 600 L70 Studying for other courses.
+ZCZC W10 1440 L71 Working (General)
+ZCZC W10 60 L73 Gaming including Board Games.
+ZCZC W10 60 L80 Waching: Movie, YouTube, TV, Netflix, etc.
+ZCZC W10 30 L83 Pets: feeding, playing, etc
+ZCZC W10 2100 L84 Relax, Rest, Nap, and Sleep
+ZCZC W10 140 L87 Breakfast/Lunch/Dinner/Snake
